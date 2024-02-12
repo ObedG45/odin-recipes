@@ -1,1 +1,9 @@
 # odin-recipes
+
+I'm programming a website about recipes that I like using HTML, and reflecting on the things that I learned from the Odin Project.
+What I've learned so far:
+HTML-Boilerplate (links, images, headers)
+Command line interface (CLI)
+Git commands
+
+
